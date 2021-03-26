@@ -1,0 +1,4 @@
+playsound
+requests
+PyObjC
+PyObjC-core
